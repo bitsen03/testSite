@@ -1,0 +1,24 @@
+html {
+    overflow: hidden;
+}
+
+
+
+.box {
+    background: url(./img/samuel-bolano-screenshot00056.jpg) no-repeat;
+    background-size: 100% ;
+}
+
+
+.hero {
+ position: absolute;
+ width: 200px;
+ height: 200px;
+ top: 50%;
+ right: 50%;
+}
+.spaleCast {
+    position: absolute;
+    top:80%;
+    right: 40%;
+}
